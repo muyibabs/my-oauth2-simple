@@ -13,6 +13,7 @@ spring:
               user-info-uri: https://api.github.com/user
               prefer-token-info: false
 
+
 #security:
 #  oauth2:
 #    client:
